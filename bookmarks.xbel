@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :28: for Floccus bookmark sync browser extension -->
+
+<bookmark href="https://www.google.com/?safe=active&amp;ssui=on" id="1">
+  <title>Google</title>
+</bookmark>
+<folder id="3">
+  <title>1º ANO</title>
+  <bookmark href="https://www.escolagames.com.br/jogos/brincando-com-as-vogais" id="6">
+    <title>Brincando com as vogais: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/eu-sei-contar" id="7">
+    <title>Eu sei contar: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/palavras-e-desenhos" id="8">
+    <title>Palavras e desenhos: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/brincando-com-as-vogais" id="9">
+    <title>Brincando com as vogais: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/eu-sei-contar" id="10">
+    <title>Eu sei contar: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/palavras-e-desenhos" id="11">
+    <title>Palavras e desenhos: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/ditado" id="12">
+    <title>Ditado: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/ditado" id="13">
+    <title>Ditado: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt/resource/14182821/jogo-da-mem%C3%B3ria-dos-n%C3%BAmeros-de-1-a-9/jogo-da-mem%C3%B3ria" id="14">
+    <title>Jogo da memória - números e quantidades de 1 a 9. - Combine os pares</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt/resource/14182821/jogo-da-mem%C3%B3ria-dos-n%C3%BAmeros-de-1-a-9/jogo-da-mem%C3%B3ria" id="15">
+    <title>Jogo da memória - números e quantidades de 1 a 9. - Combine os pares</title>
+  </bookmark>
+</folder>
+<folder id="4">
+  <title>2º ANO</title>
+  <bookmark href="https://www.escolagames.com.br/jogos/material-dourado" id="16">
+    <title>Material Dourado: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/material-dourado" id="17">
+    <title>Material Dourado: jogo educativo | Escola Games</title>
+  </bookmark>
+</folder>
+<folder id="5">
+  <title>3º ANO</title>
+  <bookmark href="https://www.escolagames.com.br/jogos/super-herois-adicao" id="18">
+    <title>Super-Heróis Adição: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/super-herois-subtracao" id="19">
+    <title>Super-Heróis Subtração: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/super-herois-adicao" id="20">
+    <title>Super-Heróis Adição: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/super-herois-subtracao" id="21">
+    <title>Super-Heróis Subtração: jogo educativo | Escola Games</title>
+  </bookmark>
+</folder>
+<folder id="22">
+  <title>4º ANO</title>
+  <bookmark href="https://wordwall.net/pt-br/community/matem%c3%a1tica/jogos-de" id="24">
+    <title>Matemática Jogos-de - Recursos de ensino</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt-br/community/matem%c3%a1tica/jogos-de" id="25">
+    <title>Matemática Jogos-de - Recursos de ensino</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt-br/community/jogo-cadeia-alimentar" id="26">
+    <title>Jogo-cadeia-alimentar - Recursos de ensino</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt-br/community/jogo-cadeia-alimentar" id="27">
+    <title>Jogo-cadeia-alimentar - Recursos de ensino</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>5º ANO</title>
+</folder>
+<bookmark href="https://plataforma.edebe.com.br/#/login" id="23">
+  <title>Plataforma Edebê</title>
+</bookmark>
+<bookmark href="https://www.cambridgeone.org/login" id="28">
+  <title>Cambridge One</title>
+</bookmark>
+</xbel>
