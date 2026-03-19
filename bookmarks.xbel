@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :29: for Floccus bookmark sync browser extension -->
+<!--- highestId :30: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/?safe=active&amp;ssui=on" id="1">
   <title>Google</title>
@@ -25,6 +25,9 @@
   </bookmark>
   <bookmark href="https://wordwall.net/pt/resource/27324201/l%C3%ADngua-portuguesa/jogo-encontre-a-letra-inicial-jacar%C3%A9" id="29">
     <title>Jogo Encontre a Letra Inicial - Jacaré Janta Jaca - Encontre a combinação</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/mestre-da-tabuada" id="30">
+    <title>Mestre da tabuada: jogo educativo | Escola Games</title>
   </bookmark>
 </folder>
 <folder id="4">
