@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :38: for Floccus bookmark sync browser extension -->
+<!--- highestId :40: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/?safe=active&amp;ssui=on" id="1">
   <title>Google</title>
@@ -32,6 +32,9 @@
   <bookmark href="https://www.escolagames.com.br/jogos/forma-palavras" id="38">
     <title>Forma palavras: jogo educativo | Escola Games</title>
   </bookmark>
+  <bookmark href="https://www.youtube.com/watch?v=zpEOmFS3JB8" id="39">
+    <title>A HISTÓRIA DOS NÚMEROS - YouTube</title>
+  </bookmark>
 </folder>
 <folder id="4">
   <title>2º ANO</title>
@@ -61,6 +64,9 @@
   </bookmark>
   <bookmark href="https://wordwall.net/pt/resource/25021678/matem%C3%A1tica/gr%C3%A1ficos-e-tabelas" id="35">
     <title>GRÁFICOS E TABELAS 🍄 - Questionário</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt/resource/3993625/multiplica%C3%A7%C3%A3o" id="40">
+    <title>Multiplicação - Associação</title>
   </bookmark>
 </folder>
 <folder id="22">
