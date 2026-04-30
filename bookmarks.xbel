@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :37: for Floccus bookmark sync browser extension -->
+<!--- highestId :38: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/?safe=active&amp;ssui=on" id="1">
   <title>Google</title>
@@ -28,6 +28,9 @@
   </bookmark>
   <bookmark href="https://wordwall.net/pt/resource/24490796/atividade-de-alfabetiza%C3%A7%C3%A3o/alfabetiza%C3%A7%C3%A3o" id="37">
     <title>Alfabetização - Questionário</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/forma-palavras" id="38">
+    <title>Forma palavras: jogo educativo | Escola Games</title>
   </bookmark>
 </folder>
 <folder id="4">
