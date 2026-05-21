@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :42: for Floccus bookmark sync browser extension -->
+<!--- highestId :43: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/?safe=active&amp;ssui=on" id="1">
   <title>Google</title>
@@ -37,6 +37,9 @@
   </bookmark>
   <bookmark href="https://wordwall.net/pt/resource/10715896/leitura-de-palavras/leitura-de-palavras" id="42">
     <title>LEITURA DE PALAVRAS - Questionário</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt-br/community/v%C3%ADrus" id="43">
+    <title>VÍRUS - Recursos de ensino</title>
   </bookmark>
 </folder>
 <folder id="4">
