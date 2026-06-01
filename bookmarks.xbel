@@ -47,6 +47,9 @@
   <bookmark href="https://www.escolagames.com.br/jogos/ditado" id="12">
     <title>Ditado: jogo educativo | Escola Games</title>
   </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/festa-junina-caca-palavras" id="45">
+    <title>Festa Junina - Caça Palavras: jogo educativo | Escola Games</title>
+  </bookmark>
 </folder>
 <folder id="5">
   <title>3º ANO</title>
@@ -92,9 +95,6 @@
   <bookmark href="https://wordwall.net/pt/resource/16153732/quiz-sentido-conotativo-e-sentido-denotativo-prof-elisan" id="44">
     <title>Quiz: Sentido conotativo e sentido denotativo - Prof. Elisan Correia - Questionário</title>
   </bookmark>
-  <bookmark href="https://www.escolagames.com.br/jogos/festa-junina-caca-palavras" id="45">
-    <title>Festa Junina - Caça Palavras: jogo educativo | Escola Games</title>
-  </bookmark>
 </folder>
 <folder id="2">
   <title>5º ANO</title>
@@ -104,8 +104,5 @@
 </bookmark>
 <bookmark href="https://www.cambridgeone.org/login" id="28">
   <title>Cambridge One</title>
-</bookmark>
-<bookmark href="https://obbiotec.azurewebsites.net/Usuarios/Login" id="41">
-  <title>OBBiotec</title>
 </bookmark>
 </xbel>
