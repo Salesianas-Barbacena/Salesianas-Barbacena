@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :45: for Floccus bookmark sync browser extension -->
+<!--- highestId :46: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/?safe=active&amp;ssui=on" id="1">
   <title>Google</title>
@@ -49,6 +49,9 @@
   </bookmark>
   <bookmark href="https://www.escolagames.com.br/jogos/festa-junina-caca-palavras" id="45">
     <title>Festa Junina - Caça Palavras: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/ordem-alfabetica" id="46">
+    <title>Ordem Alfabética: jogo educativo | Escola Games</title>
   </bookmark>
 </folder>
 <folder id="5">
