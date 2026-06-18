@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :46: for Floccus bookmark sync browser extension -->
+<!--- highestId :47: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/?safe=active&amp;ssui=on" id="1">
   <title>Google</title>
@@ -107,5 +107,8 @@
 </bookmark>
 <bookmark href="https://www.cambridgeone.org/login" id="28">
   <title>Cambridge One</title>
+</bookmark>
+<bookmark href="https://obbiotec.azurewebsites.net/usuarios/login" id="47">
+  <title>Login - OBBiotec</title>
 </bookmark>
 </xbel>
