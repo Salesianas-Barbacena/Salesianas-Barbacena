@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :51: for Floccus bookmark sync browser extension -->
+<!--- highestId :52: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/?safe=active&amp;ssui=on" id="1">
   <title>Google</title>
@@ -43,6 +43,9 @@
   </bookmark>
   <bookmark href="https://wordwall.net/pt/resource/26167545/fonoaudiologia/ca%c3%a7a-palavras-fonema-p-e-b" id="51">
     <title>Caça Palavras| Fonema P e B - Caça-palavras</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt/resource/12869861/adi%C3%A7%C3%A3o-simples" id="52">
+    <title>Adição Simples - Classificação em grupos</title>
   </bookmark>
 </folder>
 <folder id="4">
