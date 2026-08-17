@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :93: for Floccus bookmark sync browser extension -->
+<!--- highestId :95: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/?safe=active&amp;ssui=on" id="53">
   <title>Google</title>
@@ -47,6 +47,9 @@
   <bookmark href="https://wordwall.net/pt/resource/12869861/adi%C3%A7%C3%A3o-simples" id="91">
     <title>Adição Simples - Classificação em grupos</title>
   </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/curupira-curioso" id="94">
+    <title>Curupira Curioso - Jogo Educativo - Escola Games</title>
+  </bookmark>
 </folder>
 <folder id="55">
   <title>2º ANO</title>
@@ -58,6 +61,9 @@
   </bookmark>
   <bookmark href="https://www.escolagames.com.br/jogos/festa-junina-caca-palavras" id="60">
     <title>Festa Junina - Caça Palavras: jogo educativo | Escola Games</title>
+  </bookmark>
+  <bookmark href="https://www.escolagames.com.br/jogos/aventura-geometrica" id="95">
+    <title>Aventura Geométrica - Jogo Educativo - Escola Games</title>
   </bookmark>
 </folder>
 <folder id="56">
