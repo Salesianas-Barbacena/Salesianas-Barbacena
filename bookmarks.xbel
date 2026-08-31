@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :97: for Floccus bookmark sync browser extension -->
+<!--- highestId :99: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/?safe=active&amp;ssui=on" id="53">
   <title>Google</title>
@@ -87,6 +87,12 @@
     <title>GRÁFICOS E TABELAS 🍄 - Questionário</title>
   </bookmark>
   <bookmark href="https://wordwall.net/pt/resource/3993625/multiplica%C3%A7%C3%A3o" id="67">
+    <title>Multiplicação - Associação</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt/resource/3884790/multiplica%C3%A7%C3%A3o" id="98">
+    <title>MULTIPLICAÇÃO - Roleta aleatória</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt/resource/2810007/multiplica%C3%A7%C3%A3o" id="99">
     <title>Multiplicação - Associação</title>
   </bookmark>
 </folder>
