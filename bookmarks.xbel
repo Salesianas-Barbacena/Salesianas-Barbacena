@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :95: for Floccus bookmark sync browser extension -->
+<!--- highestId :97: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com/?safe=active&amp;ssui=on" id="53">
   <title>Google</title>
@@ -118,6 +118,12 @@
   </bookmark>
   <bookmark href="https://wordwall.net/pt/resource/35556097/separa%C3%A7%C3%A3o-de-s%C3%ADlabas" id="76">
     <title>SEPARAÇÃO DE SÍLABAS - Abra a caixa</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt-br/community/4%C2%BA-ano/fra%C3%A7%C3%B5es" id="96">
+    <title>4º ano Frações - Recursos de ensino</title>
+  </bookmark>
+  <bookmark href="https://wordwall.net/pt-br/community/ox%C3%ADtona-parox%C3%ADtona-e-proparox%C3%ADtona" id="97">
+    <title>oxítona paroxítona e proparoxítona - Recursos de ensino</title>
   </bookmark>
 </folder>
 <folder id="54">
